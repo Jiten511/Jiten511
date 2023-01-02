@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jitendra Bhumbhariya.
 - 👀 I’m interested in Technical Job.
-- 🌱 I’m currently learning Web Devlopment.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning about the Pocket beagle.
+- 💞️ I’m looking to collaborate on any project on the IOT devices like Arduino and Node MCU, etc. 
 - 📫 How to reach me jitendra51101@gmail.com
 
 <!---
